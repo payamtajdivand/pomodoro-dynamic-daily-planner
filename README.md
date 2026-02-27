@@ -19,10 +19,12 @@ Enter your wake-up time, pick how many Pomodoros you want, and get a full dynami
 Just open `index.html` in your browser — no install, no dependencies.
 
 ```bash
-git clone https://github.com/yourusername/pomodoro-planner
+git clone https://github.com/payamtajdivand/pomodoro-dynamic-daily-planner.git
 cd pomodoro-planner
 open index.html
 ```
+
+s
 
 ## Tech
 
