@@ -24,8 +24,6 @@ cd pomodoro-dynamic-daily-planner
 open index.html
 ```
 
-s
-
 ## Tech
 
 Pure HTML, CSS, and vanilla JavaScript. No frameworks, no build tools.
