@@ -20,7 +20,7 @@ Just open `index.html` in your browser — no install, no dependencies.
 
 ```bash
 git clone https://github.com/payamtajdivand/pomodoro-dynamic-daily-planner.git
-cd pomodoro-planner
+cd pomodoro-dynamic-daily-planner
 open index.html
 ```
 
